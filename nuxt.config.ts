@@ -28,10 +28,10 @@ export default defineNuxtConfig({
       Montserrat: [500, 600, 700],
     },
   },
-  alias: {
+ /*  alias: {
     '#emails': '/absolute/path/to/emails'
   },
   build: {
     transpile: ['#emails']
-  }
+  } */
 })
